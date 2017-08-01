@@ -1,0 +1,10 @@
+name: WorldProtection
+version: 1.0.0
+description: Stops unauthorised access to the world
+author: DarkZek
+website: https://github.com/darkzek
+
+main: com.darkzek.WorldProtection.WorldProtection
+
+commands:
+permissions: {}
